@@ -1,4 +1,4 @@
-# Cyber Psychology & Spear Phishing Lab (CPSL)
+# "ShadowGate" – Analyzing a Simulated Spear-Phishing Campaign
 
 The Cyber Psychology & Spear Phishing Lab (CPSL) explores how threat actors weaponize cognitive biases and workplace stressors. We shift security from a technical perimeter to a socio-technical model, offering behavioral frameworks, case studies, and empathy-driven defenses against targeted social engineering.
 
